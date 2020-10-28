@@ -87,6 +87,10 @@ https://github.com/donng/Play-with-Data-Structures
 
 
 ## Java & Go
+YLongo / logback-chinese-manual <br>
+logback 中文手册/文档 <br>
+https://github.com/YLongo/logback-chinese-manual
+<br><br>
 bz51 / SpringBoot-Dubbo-Docker-Jenkins <br>
 基于SpringBoot+Dubbo的微服务框架（借助Docker+Jenkins实现自动化、容器化部署） <br>
 https://github.com/bz51/SpringBoot-Dubbo-Docker-Jenkins
